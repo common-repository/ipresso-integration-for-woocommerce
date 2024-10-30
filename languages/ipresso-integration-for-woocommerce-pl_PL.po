@@ -1,0 +1,100 @@
+# Copyright (C) 2022 iPresso integration for WooCommerce
+# This file is distributed under the same license as the iPresso integration for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: iPresso integration for WooCommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ipresso-"
+"integration-for-woocommerce\n"
+"POT-Creation-Date: 2022-08-12 05:16:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-08-12 05:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1"
+
+#: ipresso-integration-for-woocommerce.php:82
+msgid ""
+"WooCommerce iPresso integration plugin depends on the last version of %s!"
+msgstr ""
+"Wtyczka integracyjna WooCommerce z iPresso zależy od ostatniej wersji %s!"
+
+#: ipresso-integration-for-woocommerce.php:86
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: src/helper/wc-ipresso-integration-status-indicator.php:17
+msgid "Integration is active"
+msgstr "Integracja jest aktywna"
+
+#: src/wc-ipresso-info-banner.php:61
+msgid "iPresso integration with WooCommerce"
+msgstr "Integracja iPresso dla WooCommerce"
+
+#: src/wc-ipresso-info-banner.php:63
+msgid ""
+"<a href=\"%s\">Complete the setup</a> to enable iPresso integration with "
+"Woocommerce."
+msgstr ""
+"<a href=\"%s\">Dokończ konfigurację</a>, aby włączyć integrację iPresso z "
+"Woocommerce."
+
+#: src/wc-ipresso-info-banner.php:73
+msgid "Dismiss this notice."
+msgstr "Odrzuć to powiadomienie."
+
+#: src/wc-ipresso-info-banner.php:74
+msgid "(Dismiss)"
+msgstr "(Odrzuć)"
+
+#: src/wc-ipresso-integration.php:33
+msgid ""
+"Provide API key to start integration of your woocommerce store with iPresso"
+msgstr ""
+"Podaj klucz API, aby rozpocząć integrację Twojego sklepu woocommerce z "
+"iPresso"
+
+#: src/wc-ipresso-integration.php:55
+msgid "API key"
+msgstr "klucz API"
+
+#: src/wc-ipresso-integration.php:57
+msgid ""
+"Log into your iPresso account to find your API key. <a href=\"%s\">See here "
+"for more information</a>."
+msgstr ""
+"Zaloguj się na swoje konto iPresso, aby znaleźć swój klucz API. <a "
+"href=\"%s\">Więcej informacji znajdziesz tutaj</a>."
+
+#: src/wc-ipresso-integration.php:64
+msgid "Provide your API key"
+msgstr "Podaj swój klucz API"
+
+#. Plugin Name of the plugin/theme
+msgid "iPresso integration for WooCommerce"
+msgstr "Integracja iPresso dla WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.ipresso.com/features/integrations"
+msgstr "https://www.ipresso.pl/funkcjonalnosci-2/integracje"
+
+#. Description of the plugin/theme
+msgid ""
+"The plugin allows you to integrate your Woocommerce store with iPresso. It "
+"saves activities about added products to cart, and placed orders."
+msgstr ""
+"Plugin pozwala zintegrować sklep Woocommerce z iPresso. Zapisuje działania "
+"dotyczące dodanych produktów do koszyka i złożonych zamówień."
+
+#. Author of the plugin/theme
+msgid "iPresso SA"
+msgstr "iPresso SA"
+
+#. Author URI of the plugin/theme
+msgid "https://ipresso.com"
+msgstr "https://ipresso.pl"
